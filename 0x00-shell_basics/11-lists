@@ -1,2 +1,2 @@
 #!/bin/bash
- ls -alr /home/vagrant/alx-system_engineering-devops/0x00-shell_basics /home/vagrant/ /boot
+ ls -alr ~/alx-system_engineering-devops/0x00-shell_basics ~/ /boot
