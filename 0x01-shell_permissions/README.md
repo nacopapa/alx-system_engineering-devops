@@ -41,4 +41,8 @@ The 12-directory_permissions  script creates a directory called my_dir with perm
 The 13-change_group script changes the group owner to school for the file hello
 
 
-The 100-change_owner_and_group script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.y.
+The 100-change_owner_and_group script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+The script 101-symbolic_link_permissions changes owner and the group owner to _hello to vincent and staff respectivly
+
+The script 102-if_only changes the ower of the file hello to betty only if it is owned by the user guillaume
