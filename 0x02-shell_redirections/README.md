@@ -4,3 +4,6 @@ This repository contains files about shell redirection.
 
 The  1-confused_smiley script that displays a confused smiley "(Ôo)'.
 
+The 2-hellofile is a script that displays content of the passwd file 
+
+
