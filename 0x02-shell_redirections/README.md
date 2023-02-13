@@ -13,3 +13,7 @@ The 4-lastlines script displays the last 10 lines of /etc/passwd
 The 5-firstlines script displays the first 10 lines of the /etc/passwd file
 
 The 6-third_line script displays the third line of the file iacta in the working directory.
+
+The 7-file script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
+
