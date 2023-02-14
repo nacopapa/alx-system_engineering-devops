@@ -30,3 +30,5 @@ The 12-combinations script prints all possible combinations of two letters, exce
  
 The script 13-print_float prints a number with two decimal places, followed by a new line.
  
+The script 100-decimal_to_hexadecimal converts base 10 to base 16
+ 
