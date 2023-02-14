@@ -28,3 +28,6 @@ The 11-directoriees script counts directoreis and sub-directores
 The 12-newest_fiels is a script to display 10 newest to oldest fiels
 
 
+The 13-unique script takes a list of words as input and prints only words that appear exactly once.
+
+
