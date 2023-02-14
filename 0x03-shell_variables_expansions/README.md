@@ -10,3 +10,5 @@ The 2-path adds /action to the PATH. /action should be the last directory the sh
 
 The 3-paths creats a script that counts the number of directories in the PATH."
  
+The 4-global_variables script lists environment variables.
+ 
