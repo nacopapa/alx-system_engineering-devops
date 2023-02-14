@@ -42,4 +42,6 @@ The 17-hdethisword script displays all teh lines in the file /etc/passwd that do
 
 The 18-lettersonly script displays all lines of the file /etc/ssh/sshd_config starting with letter including capital letters as well
 
+The script 19-AZ Replace all characters A and c from input to Z and e respectively.
+
 
