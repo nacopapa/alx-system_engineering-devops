@@ -40,4 +40,6 @@ The 16-whatsnext script displays lines containing the pattern “root” and 3 l
 
 The 17-hdethisword script displays all teh lines in the file /etc/passwd that do no contain the pattern "bin"
 
+The 18-lettersonly script displays all lines of the file /etc/ssh/sshd_config starting with letter including capital letters as well
+
 
