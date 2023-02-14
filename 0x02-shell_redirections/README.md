@@ -55,4 +55,6 @@ The 100-empty_casks script finds all empty files ad directories in the current d
 
 The 101-gifs script lists all files with .gif extension in the current directory and all sub-directories
 
+The 102-acrostic script decodes acrostics that use the first letter of each line
+
 
