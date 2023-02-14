@@ -45,3 +45,6 @@ The 18-lettersonly script displays all lines of the file /etc/ssh/sshd_config st
 The script 19-AZ Replace all characters A and c from input to Z and e respectively.
 
 
+The 20-hiago script removes all letters c and C from input.
+
+
