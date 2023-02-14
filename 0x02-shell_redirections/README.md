@@ -38,4 +38,6 @@ The 15-countthatword script displays the number of lines that contain the partte
 The 16-whatsnext script displays lines containing the pattern “root” and 3 lines after them in the file /eThe 16-whatsnext script display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.tc/passwd.
 
 
+The 17-hdethisword script displays all teh lines in the file /etc/passwd that do no contain the pattern "bin"
+
 
