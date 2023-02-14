@@ -53,4 +53,6 @@ The 22-users_and_homes script displays all users and their home directories, sor
 
 The 100-empty_casks script finds all empty files ad directories in the current directory and all sub-directories
 
+The 101-gifs script lists all files with .gif extension in the current directory and all sub-directories
+
 
