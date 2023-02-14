@@ -12,3 +12,5 @@ The 3-paths creats a script that counts the number of directories in the PATH."
  
 The 4-global_variables script lists environment variables.
  
+The 5-local_variables script lists all local variables and environment variables, and functions.
+ 
