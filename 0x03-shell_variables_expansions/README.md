@@ -16,3 +16,5 @@ The 5-local_variables script lists all local variables and environment variables
  
 The 6-create_local_variable script creates a new local variable.
  
+The 7-create_global_variable scripts creates a new global variable
+ 
