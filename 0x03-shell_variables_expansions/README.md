@@ -34,3 +34,5 @@ The script 100-decimal_to_hexadecimal converts base 10 to base 16
  
 The scrip 101-rot13 encodes and decodes text using the rot13
  
+The 102-odd script prints every other line from the input, starting with the first line.
+ 
