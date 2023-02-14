@@ -1,2 +1,2 @@
-#!/bin/bashi
-cat /etc/passwd | grep root
+#!/bin/bash
+grep -wr bin /etc/passwd | head -n 10

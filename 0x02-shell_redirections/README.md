@@ -33,3 +33,7 @@ The 13-unique script takes a list of words as input and prints only words that a
 The 14-findthatword script Display lines containing the pattern “root” from the file /etc/passwd
 
 
+The 15-countthatword script displays the number of lines that contain the parttern "bin" in the file /etc/passwd
+
+
+
