@@ -32,3 +32,5 @@ The script 13-print_float prints a number with two decimal places, followed by a
  
 The script 100-decimal_to_hexadecimal converts base 10 to base 16
  
+The scrip 101-rot13 encodes and decodes text using the rot13
+ 
