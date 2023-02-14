@@ -49,4 +49,6 @@ The 20-hiago script removes all letters c and C from input.
 
 The 21-reverse script reverses it's input
 
+The 22-users_and_homes script displays all users and their home directories, sorted by users.
+
 
