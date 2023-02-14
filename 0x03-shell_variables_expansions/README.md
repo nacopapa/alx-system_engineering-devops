@@ -24,3 +24,5 @@ The 9-divide_and_rule script prints the result of POWER divided by DIVIDE, follo
  
 The 10-love_exponent_breath script displays the result of BREATH to the power LOVE
  
+The 11-binary_to_decimal script converts a number from base 2 to base 10.
+ 
