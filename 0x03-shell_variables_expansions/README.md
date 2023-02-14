@@ -36,3 +36,5 @@ The scrip 101-rot13 encodes and decodes text using the rot13
  
 The 102-odd script prints every other line from the input, starting with the first line.
  
+The 103-water_and_stir script adds the two numbers stored in the environment variable WATER and STIR
+ 
